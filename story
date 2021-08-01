@@ -1,0 +1,1 @@
+Once upon a time, Goldilocks was taking a walk in the forest.

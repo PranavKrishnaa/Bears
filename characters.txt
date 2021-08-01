@@ -1,0 +1,4 @@
+Character 1: Goldilocks
+Character 2: Daddy Bear
+Character 3: Mummy Bear
+Character 4: Baby Bear
